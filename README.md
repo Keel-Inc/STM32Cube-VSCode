@@ -1,6 +1,6 @@
 # STM32Cube VS Code Example
 
-STM32Cube's `HID_RTOS` example project for demonstrating setting up VS Code for STM32 development.
+A demonstration repository accompanying [Blame Your Tools](https://keel-inc.com/guides/blame-your-tools/).
 
 ## Build and Setup
 
